@@ -1,6 +1,7 @@
 """
 Nepal Agriculture Minister Presentation Generator
-Reads two PDF files and creates a structured 20-25 slide PowerPoint presentation.
+Reads two PDF files and creates a structured PowerPoint presentation (title slide
++ 27 content slides = 28 total).
 Output: Nepal_Agriculture_Minister_Presentation.pptx
 """
 
